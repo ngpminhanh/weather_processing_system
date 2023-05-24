@@ -24,5 +24,3 @@ Break original data to smaller csv files.
 	3. Reformat dataframe schema.
     4. Execute any queries and create output sinks for query results
 
-# weather_processing_system
-# weather_processing_system
